@@ -1,6 +1,4 @@
-Here's a professional and clear `README.md` file you can use for your **AI Resume Critiquer** project on GitHub:
 
----
 
 # 📃 AI Resume Critiquer
 
@@ -20,8 +18,9 @@ AI Resume Critiquer is a user-friendly Streamlit web app that leverages OpenAI's
 
 ## 🚀 Demo
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/cdc4eaf0-bcb9-4ab1-a748-5752f564879c)
-)
+![image](https://github.com/user-attachments/assets/c7c7d5c6-4e8a-4d48-8a9b-079c1140f324)
+
+
 
 ## 🛠️ Tech Stack
 
